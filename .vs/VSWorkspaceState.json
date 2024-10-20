@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ex0002_WarmingUp",
-    "\\Ex0101_Addition",
-    "\\Ex0102_Subtraction",
-    "\\Ex0103_Multiplication",
-    "\\Ex0104_Karatsuba"
+    "\\Ex0201_InsertionSort",
+    "\\Ex0301_TopdownMergesort",
+    "\\Ex0302_BottomupMergesort",
+    "\\Ex0401_CountOccurrences",
+    "\\Ex0402_PartialSelectionSort",
+    "\\Ex0403_MinAndMax",
+    "\\Ex0404_PartitionByPivot"
   ],
-  "SelectedNode": "\\Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp",
+  "SelectedNode": "\\Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
   "PreviewInSolutionExplorer": false
 }
