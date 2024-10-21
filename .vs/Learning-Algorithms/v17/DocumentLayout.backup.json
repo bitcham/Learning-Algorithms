@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\ckaql\\Learning-Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ckaql\\Learning-Algorithms\\Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,20 +54,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex0405_ExpectedLinearSelection.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp",
+              "RelativeDocumentMoniker": "13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp",
+              "RelativeToolTip": "13_ExpectedLinearSelection\\Ex0405_ExpectedLinearSelection.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:12:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex0404_PartitionByPivot.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "RelativeDocumentMoniker": "12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "RelativeToolTip": "12_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:12:02.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ex0406_WorstcaseLinearSelection.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp",
+              "RelativeDocumentMoniker": "14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp",
+              "RelativeToolTip": "14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:11:56.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex0404_PartitionByPivot.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "RelativeDocumentMoniker": "Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "RelativeToolTip": "Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:50:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex0403_MinAndMax.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp",
+              "RelativeDocumentMoniker": "Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp",
+              "RelativeToolTip": "Ex0403_MinAndMax\\Ex0403_MinAndMax.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:50:15.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex0402_PartialSelectionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp",
+              "RelativeDocumentMoniker": "Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp",
+              "RelativeToolTip": "Ex0402_PartialSelectionSort\\Ex0402_PartialSelectionSort.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:50:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ex0401_CountOccurrences.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp",
+              "RelativeDocumentMoniker": "Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp",
+              "RelativeToolTip": "Ex0401_CountOccurrences\\Ex0401_CountOccurrences.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:49:53.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ex0302_BottomupMergesort.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp",
+              "RelativeDocumentMoniker": "Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp",
+              "RelativeToolTip": "Ex0302_BottomupMergesort\\Ex0302_BottomupMergesort.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:49:42.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ex0301_TopdownMergesort.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp",
+              "RelativeDocumentMoniker": "Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp",
+              "RelativeToolTip": "Ex0301_TopdownMergesort\\Ex0301_TopdownMergesort.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAE0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:49:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex0201_InsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp",
+              "RelativeDocumentMoniker": "Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp",
+              "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp",
+              "RelativeToolTip": "Ex0201_InsertionSort\\Ex0201_InsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:49:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ex0104_Karatsuba.cpp",
               "DocumentMoniker": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp",
               "RelativeDocumentMoniker": "Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp",
               "ToolTip": "C:\\Users\\ckaql\\Learning-Algorithms\\Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp",
               "RelativeToolTip": "Ex0104_Karatsuba\\Ex0104_Karatsuba.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-18T19:57:56.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T19:57:56.457Z"
             }
           ]
         }

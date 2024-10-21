@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ex0201_InsertionSort",
-    "\\Ex0301_TopdownMergesort",
-    "\\Ex0302_BottomupMergesort",
-    "\\Ex0401_CountOccurrences",
-    "\\Ex0402_PartialSelectionSort",
-    "\\Ex0403_MinAndMax",
-    "\\Ex0404_PartitionByPivot"
+    "\\03_Subtraction",
+    "\\04_Multiplication",
+    "\\05_Karatsuba",
+    "\\06_InsertionSort",
+    "\\07_TopdownMergesort",
+    "\\08_BottomupMergesort",
+    "\\09_CountOccurrences",
+    "\\10_PartialSelectionSort",
+    "\\11_MinAndMax"
   ],
-  "SelectedNode": "\\Ex0404_PartitionByPivot\\Ex0404_PartitionByPivot.cpp",
+  "SelectedNode": "\\14_WorstcaseLinearSelection\\Ex0406_WorstcaseLinearSelection.cpp",
   "PreviewInSolutionExplorer": false
 }
